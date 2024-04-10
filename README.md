@@ -13,13 +13,13 @@ Welcome to my GitHub page. Here you can see my code more up-close and how I have
 
 ### About me :
 
-- 🔭 I’m currently working on: React based diary web page
-- 🌱 I’m currently learning: Frontend, Fullstack, web development
-- 👯 I’m looking to collaborate on: any project which is junior/beginner-friendly.
-- 🤔 I’m looking for help with: Fullstack development, ideas, and feedback!
-- 💬 Ask me about: Anything related to work opportunities, web development, and hobbies.
-- 📫 How to reach me: LinkedIn and email: jerekoivisto7@gmail.com
-- ⚡ Fun fact: Earl Grey tea is my current way to ease my daaaays.
+- 🔭 **I’m currently working on:** React based diary web page
+- 🌱 **I’m currently learning:** Frontend, Fullstack, web development
+- 👯 **I’m looking to collaborate on:** any project which is junior/beginner-friendly.
+- 🤔 **I’m looking for help with:** Fullstack development, ideas, and feedback!
+- 💬 **Ask me about:** Anything related to work opportunities, web development, and hobbies.
+- 📫 **How to reach me:** LinkedIn and email: jerekoivisto7@gmail.com
+- ⚡ **Fun fact:** Earl Grey tea is my current way to ease my daaaays.
 
 <div id="header" align="center">
 
