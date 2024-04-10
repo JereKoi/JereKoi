@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my GitHub page. Here you can see my code more up-close and how I have developed my coding as years have gone by.
 
 ---
-Connect with me in LinkedIn:
+Connect with me on LinkedIn:
 <div id="badges">
   <a href="https://www.linkedin.com/in/jere-koivisto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
