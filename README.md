@@ -5,7 +5,7 @@
   Hi there 👋
 </h1>
 <h3>
-Welcome to my GitHub page. Here you can see my code more up-close and how I have developed my coding as years have gone by.
+Welcome to my GitHub page. Here you can see my code more up-close and how my coding, but also version control skills have developed as years have gone by.
 </h3>
 </div>
 
