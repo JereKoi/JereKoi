@@ -14,7 +14,7 @@
 - 📫 How to reach me: LinkedIn and email: jerekoivisto7@gmail.com
 - ⚡ Fun fact: Earl Grey tea is my current way to ease my daaaays.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-GitHub-JereKoi&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JereKoi)](https://git.io/streak-stats)
 
 <!--
 **JereKoi/JereKoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
