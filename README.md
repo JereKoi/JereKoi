@@ -14,9 +14,8 @@
 - 📫 How to reach me: LinkedIn and email: jerekoivisto7@gmail.com
 - ⚡ Fun fact: Earl Grey tea is my current way to ease my daaaays.
 
-<div>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=JereKoi)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JereKoi)](https://git.io/streak-stats)
+
 
 
 <!--
