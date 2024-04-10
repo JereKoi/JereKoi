@@ -1,10 +1,14 @@
 ### Hi there 👋 Welcome to my GitHub page. Here you can see my code more up-close and how I have developed my coding as years have gone by.
 
+---
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/jere-koivisto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+---
 
 ### About me :
 
@@ -34,6 +38,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JereKoi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
