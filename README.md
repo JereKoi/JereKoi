@@ -2,10 +2,6 @@
 
 ### About me :
 
-</div>
-
-<div id="header2" align="center">
-
 - 🔭 I’m currently working on: React based diary web page
 - 🌱 I’m currently learning: Frontend, Fullstack, web development
 - 👯 I’m looking to collaborate on: any project which is junior/beginner-friendly.
@@ -18,6 +14,9 @@
 
 
 ---
+
+<div
+
 Connect with me on LinkedIn:
 <div id="badges">
   <a href="https://www.linkedin.com/in/jere-koivisto/">
