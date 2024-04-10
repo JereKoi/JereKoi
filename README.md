@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Zebztgv7jmkoLe1DoY/giphy.gif" width="200" height="200"/>
 
-  Hi there 👋
+Hi there 👋
+
 Welcome to my GitHub page. Here you can see my code more up-close and how I have developed my coding as years have gone by.
 </div>
 
