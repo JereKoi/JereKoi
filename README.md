@@ -16,6 +16,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JereKoi)](https://git.io/streak-stats)
 
+---
+
+### :hammer_and_wrench: Languages and Tools I use :
+
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
