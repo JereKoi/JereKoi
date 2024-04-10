@@ -6,6 +6,8 @@
   </a>
 </div>
 
+### About me :
+
 - 🔭 I’m currently working on: React based diary web page
 - 🌱 I’m currently learning: Frontend, Fullstack, web development
 - 👯 I’m looking to collaborate on: any project which is junior/beginner-friendly.
