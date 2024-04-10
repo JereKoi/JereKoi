@@ -1,3 +1,4 @@
+<div id="header" align="center">
 ### Hi there 👋 Welcome to my GitHub page. Here you can see my code more up-close and how I have developed my coding as years have gone by.
 
 ---
@@ -44,6 +45,9 @@ Connect with me on LinkedIn:
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JereKoi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 
 
