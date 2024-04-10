@@ -65,8 +65,6 @@ Connect with me on LinkedIn:
 
 ---
 
-![](https://hit.yhype.me/github/profile?user_id=77491365)
-
 </div>
 
 
