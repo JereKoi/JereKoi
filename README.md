@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Zebztgv7jmkoLe1DoY/giphy.gif" width="200" height="200"/>
 
 <h1>
-  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
+  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 </h1>
 <h3>
 Welcome to my GitHub page. Here you can see my code more up-close and how my coding, but also version control skills have developed as years have gone by.
@@ -16,12 +16,12 @@ Welcome to my GitHub page. Here you can see my code more up-close and how my cod
 
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="25" height="25" /> **I’m currently working on:** *React based diary web page*
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> **I’m currently learning:** *Frontend, Fullstack, web development*
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **I’m looking to collaborate on:** *any project which is junior/beginner-friendly.*
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> **I’m looking for help with:** *Fullstack development, ideas, and feedback!*
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" /> **I’m currently learning:** *Frontend, Fullstack, web development*
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> **I’m looking to collaborate on:** *any project which is junior/beginner-friendly.*
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="30" height="30" /> **I’m looking for help with:** *Fullstack development, ideas, and feedback!*
 - ask me about
 - how to reach me:
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="25" height="25" /> **Fun fact:** *Earl Grey tea is my current way to ease my days.*
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="30" height="30" /> **Fun fact:** *Earl Grey tea is my current way to ease my days.*
 - 🌱 **I’m currently learning:** *Frontend, Fullstack, web development*
 - 💬 **Ask me about:** *Anything related to work opportunities, web development, and hobbies.*
 - 📫 **How to reach me:** *LinkedIn and email: jerekoivisto7@gmail.com*
