@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Zebztgv7jmkoLe1DoY/giphy.gif" width="200" height="200"/>
 
 <h1>
-  Hi there 👋
+  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 </h1>
 <h3>
 Welcome to my GitHub page. Here you can see my code more up-close and how my coding, but also version control skills have developed as years have gone by.
@@ -13,14 +13,18 @@ Welcome to my GitHub page. Here you can see my code more up-close and how my cod
 
 ### About me :
 
-<img src=<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />;
-- 🔭 **I’m currently working on:** *React based diary web page*
+
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="25" height="25" /> **I’m currently working on:** *React based diary web page*
+- <img src=<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> **I’m currently learning:** *Frontend, Fullstack, web development*
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **I’m looking to collaborate on:** *any project which is junior/beginner-friendly.*
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> **I’m looking for help with:** *Fullstack development, ideas, and feedback!*
+- ask me about
+- how to reach me:
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="25" height="25" /> **Fun fact:** *Earl Grey tea is my current way to ease my days.*
 - 🌱 **I’m currently learning:** *Frontend, Fullstack, web development*
-- 👯 **I’m looking to collaborate on:** *any project which is junior/beginner-friendly.*
-- 🤔 **I’m looking for help with:** *Fullstack development, ideas, and feedback!*
 - 💬 **Ask me about:** *Anything related to work opportunities, web development, and hobbies.*
 - 📫 **How to reach me:** *LinkedIn and email: jerekoivisto7@gmail.com*
-- ⚡ **Fun fact:** *Earl Grey tea is my current way to ease my daaaays.*
 
 <div id="header" align="center">
 
@@ -30,6 +34,7 @@ Welcome to my GitHub page. Here you can see my code more up-close and how my cod
 <div
 
 Connect with me on LinkedIn:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />
 <div id="badges">
   <a href="https://www.linkedin.com/in/jere-koivisto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
