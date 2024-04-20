@@ -13,6 +13,7 @@ Welcome to my GitHub page. Here you can see my code more up-close and how my cod
 
 ### About me :
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" widht="10" height="10"/>&nbsp;
 - 🔭 **I’m currently working on:** *React based diary web page*
 - 🌱 **I’m currently learning:** *Frontend, Fullstack, web development*
 - 👯 **I’m looking to collaborate on:** *any project which is junior/beginner-friendly.*
