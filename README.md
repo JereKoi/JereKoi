@@ -22,7 +22,7 @@ Welcome to my GitHub page. Here you can see my code more up-close and how my cod
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" /> **How to reach me:** *LinkedIn and email: jerekoivisto7@gmail.com*
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="30" height="30" /> **Fun fact:** *Earl Grey tea is my current way to ease my days.*
 
-- Note: If you wonder why the 2022 and 2023 activity of mine GitHub looks empty, it is due to our BBA school's own GitLab repository usage during studies and focusing on studies 100%!
+- Note: If you wonder why my GitHub's 2022 and 2023 activity looks empty, it is due to my BBA school's own GitLab repository usage during studies and focused on studies 100%!
 <div id="header" align="center">
 
 
