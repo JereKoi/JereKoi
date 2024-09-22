@@ -79,6 +79,8 @@ Connect with me on LinkedIn:
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
  </p>
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JereKoi&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=JereKoi&theme=react)](https://git.io/streak-stats)
 
 [![Jere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JereKoi&theme=react)](https://github.com/JereKoi/github-readme-activity-graph)
