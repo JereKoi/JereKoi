@@ -99,8 +99,8 @@ Connect with me on LinkedIn:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JereKoi&theme=react)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JereKoi&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="Jere's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SuriyaTasmimDisha&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JereKoi&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  <a href="https://github.com/JereKoi/github-readme-stats">
+     <img alt="Jere's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=JereKoi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
  </a>
 
 [![Jere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JereKoi&theme=react)](https://github.com/JereKoi/github-readme-activity-graph)
