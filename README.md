@@ -20,7 +20,7 @@ Welcome to my GitHub page. Here you can see my code more up-close and how my cod
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="30" height="30" /> **I’m looking for help with:** *Fullstack development, ideas, and feedback!*
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> **Ask me about:** *Anything related to work opportunities, web development, and hobbies.*
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" /> **How to reach me:** *LinkedIn and email: jerekoivisto7@gmail.com*
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="30" height="30" /> **Fun fact:** *Earl Green tea is my go-to programming drink currently.*
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="30" height="30" /> **Fun fact:** *Green tea is my go-to programming drink currently.*
 
 - Note: If you wonder why my GitHub's 2022 and 2023 activity looks empty, it is due to my BBA school's own GitLab repository usage during studies and focused on studies 100%!
 <div id="header" align="center">
