@@ -105,7 +105,7 @@ Connect with me on LinkedIn:
 
  <h3> 💻 GitHub Profile Stats</h3>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="SuriyaDisha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SuriyaTasmimDisha&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
+     <img alt="Jere's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SuriyaTasmimDisha&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
  </a>
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> Past month GitHub activity</h3>
