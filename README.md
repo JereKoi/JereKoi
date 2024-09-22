@@ -97,18 +97,12 @@ Connect with me on LinkedIn:
 
 ---
 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" /> Streak stats</h3>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JereKoi&theme=react)](https://git.io/streak-stats)
 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ledger.png" alt="Ledger" width="30" height="30" /> Top languages used according to size of repositories</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JereKoi&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
-
- <h3> 💻 GitHub Profile Stats</h3>
- <a href="https://github.com/anuraghazra/github-readme-stats">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JereKoi&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="Jere's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SuriyaTasmimDisha&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
  </a>
 
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> Past month GitHub activity</h3>
 [![Jere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JereKoi&theme=react)](https://github.com/JereKoi/github-readme-activity-graph)
 
 
