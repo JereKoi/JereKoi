@@ -40,11 +40,6 @@ Connect with me on LinkedIn:
 
 ---
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JereKoi)](https://git.io/streak-stats)
-
----
-
 ### :hammer_and_wrench: Languages and Tools I use :
 
 <div>
@@ -68,6 +63,16 @@ Connect with me on LinkedIn:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JereKoi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JereKoi)](https://git.io/streak-stats)
+
+[![Jere's GitHub stats](https://github-readme-stats.vercel.app/api?username=JereKoi)](https://github.com/JereKoi/github-readme-stats)
+
+ <a href="https://github.com/JereKoi/github-readme-activity-graph">
+     <img alt="Jere's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JereKoi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+ </a>
+
 
 </div>
 
