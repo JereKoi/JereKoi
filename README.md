@@ -67,7 +67,7 @@ Connect with me on LinkedIn:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JereKoi)](https://git.io/streak-stats)
 
- [![Jere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JereKoi)](https://github.com/JereKoi/github-readme-activity-graph)
+ [![Jere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JereKoi&theme=vue)](https://github.com/JereKoi/github-readme-activity-graph)
 
 
 </div>
