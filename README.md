@@ -38,7 +38,7 @@ Connect with me on LinkedIn:
 
 ---
 
-## 🛠️ My Favorite Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> My Favorite Tools
  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="30" height="30" /> Programming Languages</h3>
  <p>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
