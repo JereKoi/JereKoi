@@ -99,7 +99,6 @@ Connect with me on LinkedIn:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JereKoi&theme=react)](https://git.io/streak-stats)
 
-height="192px"
 <img alt="Jere's Github Stats" src="[https://denvercoder1-github-readme-stats.vercel.app/api/?username=JereKoi](https://github-readme-stats.vercel.app/api/top-langs/?username=JereKoi&layout=compact&theme=react)&show_icons=true&include_all_commits=true&count_private=true&theme=react" height="192px">
  </a>
 
