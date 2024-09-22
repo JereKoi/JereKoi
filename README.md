@@ -52,7 +52,7 @@ Connect with me on LinkedIn:
  
  ---
  
- <h3>🧰 Frameworks and Libraries</h3>
+ <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="30" height="30" /> Frameworks and Libraries</h3>
  <p>
   <a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=flat-square&logo=express&logoColor=white"></a>
@@ -63,7 +63,7 @@ Connect with me on LinkedIn:
  
  ---
  
- <h3>🗄️ Databases and Cloud Hosting</h3>
+ <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="File Cabinet" width="30" height="30" /> Databases and Cloud Hosting</h3>
   <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white"></a>
   <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"></a>
   <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-010101.svg?style=flat-square&logo=amazon&logoColor=%23FF9900"></a>
@@ -71,7 +71,7 @@ Connect with me on LinkedIn:
   
   ---
   
- <h3>💻 Software and Tools</h3>
+ <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="30" height="30" /> Software and Tools</h3>
  <p>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
@@ -88,7 +88,7 @@ Connect with me on LinkedIn:
  
  ---
  
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" />Operating systems and servers I have experience on</h3>
+<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" /> Operating systems and servers I have experience on</h3>
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></a>
