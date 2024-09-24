@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Zebztgv7jmkoLe1DoY/giphy.gif" width="200" height="200"/>
 
 <h1>
-  Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
+  Hello world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 </h1>
 <h3>
 Welcome to my GitHub page. Here you can see my code more up-close and how my coding, but also version control skills have developed as years have gone by.
