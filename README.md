@@ -15,7 +15,7 @@ Welcome to my GitHub page. Here you can see my code more up close and how my cod
 
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="30" height="30" /> **I’m currently working on:** *Jazz Club Tycoon game & backend stuff such as parsing and database saving!)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="30" height="30" /> **I’m currently working on:** *Jazz Club Tycoon game & backend stuff such as parsing and database saving!*)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" /> **I’m currently learning:** *Backend and C#.*
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" /> **How to reach me:** *LinkedIn and email: jerekoivisto7@gmail.com*
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="30" height="30" /> **Fun fact:** *Coffee and water is my go-to programming drink currently.*
