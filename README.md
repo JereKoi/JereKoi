@@ -96,12 +96,10 @@ Connect with me on LinkedIn:
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JereKoi&theme=react)](https://git.io/streak-stats)
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=JereKoi)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JereKoi&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  <a href="https://github.com/JereKoi/github-readme-stats">
      <img alt="Jere's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=JereKoi&show_icons=true&include_all_commits=true&count_private=true&theme=react">
  </a>
-
-[![Jere's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JereKoi&theme=react)](https://github.com/JereKoi/github-readme-activity-graph)
 
 
 </div>
